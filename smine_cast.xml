@@ -18,8 +18,7 @@ Add a popup menu on right bottom bar. Add "send to playlist:" in context menu.</
           ]]>
         </description>
         <pubDate>2015年10月19号 周一 17:22 +0800</pubDate>
-        <enclosure url="https://raw.githubusercontent.com/uPlayer/release/master/Smine.zip" sparkle:version="0.3.1" length="1864855" type="application/octet-stream" sparkle:dsaSignature="MCwCFHfCFDww58kFRuw6Mtb25lCXOpXVAhRzb4oLkNgKUtl6lXhDK3YB0otrVw==
-" />
+        <enclosure url="https://raw.githubusercontent.com/uPlayer/release/master/Smine.zip" sparkle:version="0.3.1" length="1864855" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCY5yeGV86+nhFmkt2O/Uh5lEgQtQIUJPdb+EU0vJ7hfKQo1g8+eEp55X4=" />
       </item>
   </channel>
 </rss>
