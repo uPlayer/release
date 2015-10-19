@@ -6,17 +6,19 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
-        <title>Version 0.3.0(Add autoupdate modules,Fix some little bugs)</title>
+        <title>Version 0.3.1(
+Add a popup menu on right bottom bar. Add "send to playlist:" in context menu.</title>
         <description>
           <![CDATA[
             <ul>
-              <li>Add autoupdate modules</li>
-              <li>Fix some little bugs</li>
+              <li>Add a popup menu "switch to playlist:" if click on right bottom bar. </li>
+              <li>Add "send to playlist:" in context menu.</li>
+              <li>Fix bugs when "delete track items".</li>
             </ul>
           ]]>
         </description>
-        <pubDate>2015年10月14号 周三 11:02 +0000</pubDate>
-        <enclosure url="https://raw.githubusercontent.com/uPlayer/release/master/Smine.zip" sparkle:version="0.3.0" length="1690951" type="application/octet-stream" sparkle:dsaSignature="MCwCFCdoW13VBGJWIfIklKxQVyetgxE7AhQTVuY9uQT0KOV1UEk21epBsGZMPg==" />
+        <pubDate>2015年10月19号 周一 17:22 +0800</pubDate>
+        <enclosure url="https://raw.githubusercontent.com/uPlayer/release/master/Smine.zip" sparkle:version="0.3.1" length="1864855" type="application/octet-stream" sparkle:dsaSignature="MCwCFCdoW13VBGJWIfIklKxQVyetgxE7AhQTVuY9uQT0KOV1UEk21epBsGZMPg==" />
       </item>
   </channel>
 </rss>
