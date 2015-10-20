@@ -6,19 +6,16 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
-        <title>Version 0.3.1(
-Add a popup menu on right bottom bar. Add "send to playlist:" in context menu.</title>
+        <title>Version 0.3.3(Font change support.)</title>
         <description>
           <![CDATA[
             <ul>
-              <li>Add a popup menu "switch to playlist:" if click on right bottom bar. </li>
-              <li>Add "send to playlist:" in context menu.</li>
-              <li>Fix bugs when "delete track items".</li>
+              <li>Font change support.</li>
             </ul>
           ]]>
         </description>
-        <pubDate>2015年10月19号 周一 17:22 +0800</pubDate>
-        <enclosure url="https://raw.githubusercontent.com/uPlayer/release/master/Smine.zip" sparkle:version="0.3.2" length="1864855" type="application/octet-stream" sparkle:dsaSignature="MCwCFAkhWDqtR+XEuSHw3mE7JQt2fIxYAhRUliJLMUClgaSzRO7LHhQZu/GvoA==" />
+        <pubDate>2015年10月20号 周二 11:49 +0800</pubDate>
+        <enclosure url="https://raw.githubusercontent.com/uPlayer/release/master/Smine.zip" sparkle:version="0.3.3" length="1869033" type="application/octet-stream" sparkle:dsaSignature="MCwCFHYYztRjJP0+uEdJVDji5FBMTs1WAhQqaFD50nEj9rfMB7kVZuLMj8qdpg==" />
       </item>
   </channel>
 </rss>
