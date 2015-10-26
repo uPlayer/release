@@ -6,16 +6,16 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
-        <title>Version 0.3.3(Font change support.)</title>
+        <title>Version 0.3.3a(fix bugs in column sorting.)</title>
         <description>
           <![CDATA[
             <ul>
-              <li>Font change support.</li>
+              <li>fix bugs in column sorting</li>
             </ul>
           ]]>
         </description>
-        <pubDate>2015年10月20号 周二 11:49 +0800</pubDate>
-        <enclosure url="https://raw.githubusercontent.com/uPlayer/release/master/Smine.zip" sparkle:version="0.3.3" length="1869033" type="application/octet-stream" sparkle:dsaSignature="MCwCFHYYztRjJP0+uEdJVDji5FBMTs1WAhQqaFD50nEj9rfMB7kVZuLMj8qdpg==" />
+        <pubDate>2015年10月26号 周一 14:07 +0800</pubDate>
+        <enclosure url="https://raw.githubusercontent.com/uPlayer/release/master/Smine.zip" sparkle:version="0.3.3a" length="1891353" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCZIFkR+tQH5o+qpI3qLc5htuSCewIUPHgGR3R22vZuHPdDsL+DJIxkzbQ=" />
       </item>
   </channel>
 </rss>
