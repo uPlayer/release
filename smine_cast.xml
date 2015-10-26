@@ -6,7 +6,7 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
-        <title>Version 0.3.3a(fix bugs in column sorting.)</title>
+        <title>Version 0.3.4(fix bugs in column sorting.)</title>
         <description>
           <![CDATA[
             <ul>
@@ -15,7 +15,7 @@
           ]]>
         </description>
         <pubDate>2015年10月26号 周一 14:07 +0800</pubDate>
-        <enclosure url="https://raw.githubusercontent.com/uPlayer/release/master/Smine.zip" sparkle:version="0.3.4" length="1891353" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCZIFkR+tQH5o+qpI3qLc5htuSCewIUPHgGR3R22vZuHPdDsL+DJIxkzbQ=" />
+        <enclosure url="https://raw.githubusercontent.com/uPlayer/release/master/Smine.zip" sparkle:version="0.3.4" length="1891356" type="application/octet-stream" sparkle:dsaSignature="MCwCFHPJvbpnm60rC5enO9HpDfG55cN3AhQduX9kAeFyWagpoaD/CYGKi0sJ9w==" />
       </item>
   </channel>
 </rss>
