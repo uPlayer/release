@@ -6,16 +6,22 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
-        <title>Version 0.3.4(fix bugs in column sorting.)</title>
+        <title>Version 0.3.5(Fix problem that loading album images is slow while scrolling.
+Fix bug in random play order.
+Modify send to playlist Menus.
+Save config when playlist changed.)</title>
         <description>
           <![CDATA[
             <ul>
-              <li>fix bugs in column sorting</li>
+              <li>Fix problem that loading album images is slow while scrolling.</li>
+              <li>Fix bug in random play order.</li>
+              <li>Modify send to playlist Menus.</li>
+              <li>Save config when playlist changed.</li>
             </ul>
           ]]>
         </description>
-        <pubDate>2015年10月26号 周一 14:07 +0800</pubDate>
-        <enclosure url="https://raw.githubusercontent.com/uPlayer/release/master/Smine.zip" sparkle:version="0.3.4" length="1891356" type="application/octet-stream" sparkle:dsaSignature="MCwCFHPJvbpnm60rC5enO9HpDfG55cN3AhQduX9kAeFyWagpoaD/CYGKi0sJ9w==" />
+        <pubDate>2015年11月11号 周三 14:478 +0800</pubDate>
+        <enclosure url="https://raw.githubusercontent.com/uPlayer/release/master/Smine.zip" sparkle:version="0.3.5" length="1811530" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCbB4YURslhv2fOi8q+YJGaaOJ6WQIUQ00CfXU/9JWk6t9SNuNpyd6S7/Q=" />
       </item>
   </channel>
 </rss>
