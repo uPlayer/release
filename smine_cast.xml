@@ -6,16 +6,16 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
-        <title>Version 0.3.6</title>
+        <title>Version 0.3.7</title>
         <description>
           <![CDATA[
             <ul>
-              <li>Dock menu added.</li>
+              <li>Add wav audio file format support.</li>
             </ul>
           ]]>
         </description>
-        <pubDate>2015年12月03号 周四 10:47 +0800</pubDate>
-        <enclosure url="https://raw.githubusercontent.com/uPlayer/release/master/Smine.zip" sparkle:version="0.3.6" length="1814099" type="application/octet-stream" sparkle:dsaSignature="MCwCFGww2LPSOY9V8iXhbVbP1F+m2dBEAhQ9LQLIgAlQIsnoyAFPLsnaO1MD1A==" />
+        <pubDate>2016年01月05号 周二 15:42 +0800</pubDate>
+        <enclosure url="https://raw.githubusercontent.com/uPlayer/release/master/Smine.zip" sparkle:version="0.3.7" length="1811743" type="application/octet-stream" sparkle:dsaSignature="MCwCFAtTkaKmNuD60cIfJKFI5ZlkxK2KAhRsWshVaDMu387Kd7P04Wwni078MQ==" />
       </item>
   </channel>
 </rss>
