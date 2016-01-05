@@ -7,4 +7,6 @@
 4. ls the zip file size
 5. update the cast xml
 
+##To test update
+Use `python -m SimpleHTTPServer 8080`  
 

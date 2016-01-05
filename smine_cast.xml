@@ -15,7 +15,7 @@
           ]]>
         </description>
         <pubDate>2016年01月05号 周二 15:42 +0800</pubDate>
-        <enclosure url="https://raw.githubusercontent.com/uPlayer/release/master/Smine.zip" sparkle:version="0.3.7" length="1811743" type="application/octet-stream" sparkle:dsaSignature="MCwCFAtTkaKmNuD60cIfJKFI5ZlkxK2KAhRsWshVaDMu387Kd7P04Wwni078MQ==" />
+        <enclosure url="https://raw.githubusercontent.com/uPlayer/release/master/Smine.zip" sparkle:version="0.3.7" length="1811743" type="application/octet-stream" sparkle:dsaSignature="MCwCFDN3lmynVfEHl3UkNZH68uRYZra2AhRVHTP99HD8W31As+BDlDiFF8+ouA==" />
       </item>
   </channel>
 </rss>
