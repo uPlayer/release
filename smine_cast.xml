@@ -15,7 +15,7 @@
           ]]>
         </description>
         <pubDate>2016年09月26号 周一 12:54 +0800</pubDate>
-        <enclosure url="https://code.aliyun.com/liaogang/smine_release/raw/master/Smine.zip" sparkle:version="0.4.1" length="1836455" type="application/octet-stream" sparkle:dsaSignature="MCwCFEP19n1Pkq1hJgxuKcdvD/mTu0cNAhR3Qz44pZO+r3aJRrwpV6IUvnnXvg==" />
+        <enclosure url="https://coding.net/u/liaogang123/p/SmineRelease/git/raw/master/Smine.zip" sparkle:version="0.4.1" length="1836455" type="application/octet-stream" sparkle:dsaSignature="MCwCFEP19n1Pkq1hJgxuKcdvD/mTu0cNAhR3Qz44pZO+r3aJRrwpV6IUvnnXvg==" />
       </item>
   </channel>
 </rss>
