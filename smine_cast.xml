@@ -6,20 +6,16 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
-        <title>Version 0.4.0</title>
+        <title>Version 0.4.1</title>
         <description>
           <![CDATA[
             <ul>
-              <li>volumn Slider Will Update Continuous.</li>
-              <li>Smine will save playing index info while playing changed.</li>
-              <li>Add Option: Stop scrobbling to Last.Fm when screen saver running.</li>
-              <li>Searialize using NSCoding.</li>
-              <li>Add a version compare system to player config files</li>
+              <li>Fix problems app will crash when switch songs.</li>
             </ul>
           ]]>
         </description>
-        <pubDate>2016年03月30号 周三 09:27 +0800</pubDate>
-        <enclosure url="https://code.aliyun.com/liaogang/smine_release/raw/master/Smine.zip" sparkle:version="0.4.0" length="1835808" type="application/octet-stream" sparkle:dsaSignature="MCwCFFu1Y8rIRmjSi5yE6FReRf4E1gq1AhQzb9+FEDq9zn7mwYnEYpZTDoZPzA==" />
+        <pubDate>2016年09月26号 周一 12:54 +0800</pubDate>
+        <enclosure url="https://code.aliyun.com/liaogang/smine_release/raw/master/Smine.zip" sparkle:version="0.4.1" length="1836455" type="application/octet-stream" sparkle:dsaSignature="MCwCFEP19n1Pkq1hJgxuKcdvD/mTu0cNAhR3Qz44pZO+r3aJRrwpV6IUvnnXvg==" />
       </item>
   </channel>
 </rss>
