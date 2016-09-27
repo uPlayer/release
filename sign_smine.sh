@@ -1,2 +1,1 @@
-~/Sparkle/bin/sign_update Smine.zip ~/快盘/dsa/dsa_priv.pem
-
+~/Sparkle/bin/sign_update Smine.zip ~/baidu_yun/百度云同步盘/kpan/dsa/dsa_priv.pem
