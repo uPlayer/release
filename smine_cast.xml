@@ -6,16 +6,16 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
-        <title>Version 0.4.1</title>
+        <title>Version 0.4.3</title>
         <description>
           <![CDATA[
             <ul>
-              <li>Fix problems app will crash when switch songs.</li>
+              <li>Fix problems app engine will crash when play songs.</li>
             </ul>
           ]]>
         </description>
-        <pubDate>2016年09月26号 周一 12:54 +0800</pubDate>
-        <enclosure url="https://code.aliyun.com/liaogang/smine_release/raw/master/Smine.zip" sparkle:version="0.4.1" length="1836455" type="application/octet-stream" sparkle:dsaSignature="MCwCFEP19n1Pkq1hJgxuKcdvD/mTu0cNAhR3Qz44pZO+r3aJRrwpV6IUvnnXvg==" />
+        <pubDate>2016年09月27号 周二 10:18 +0800</pubDate>
+        <enclosure url="https://code.aliyun.com/liaogang/smine_release/raw/master/Smine.zip" sparkle:version="0.4.1" length="1829833" type="application/octet-stream" sparkle:dsaSignature="MC0CFGRr77jXNcB2szl2vi4krj6PcVGSAhUApWd/Xiqj6Pq12JnVjTlmOB2syX8=" />
       </item>
   </channel>
 </rss>
